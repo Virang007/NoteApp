@@ -1,6 +1,6 @@
-# flutter_application_1
+## Sqlite NoteApp in Flutter
 
-A new Flutter project.
+A new Sqlite Flutter project.
 
 ## Getting Started
 
