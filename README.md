@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+![Phone Screenshot 1](https://github.com/Virang007/NoteApp/assets/104147123/c572bd81-c722-4d74-9497-f391325ef68b)
+
+![snote](https://github.com/Virang007/NoteApp/assets/104147123/c3243597-9705-42c2-88c8-e7d762c069fd)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
