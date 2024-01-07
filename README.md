@@ -2,9 +2,7 @@
 
 A new Flutter project.
 
-![Phone Screenshot 1](https://github.com/Virang007/NoteApp/assets/104147123/c4f4a414-53bf-48bf-9d51-f522eb9d742c)
-
-![snote](https://github.com/Virang007/NoteApp/assets/104147123/27b61610-77d4-47b0-b551-956117e6c630)
+![Phone Screenshot 1](https://github.com/Virang007/NoteApp/assets/104147123/c4f4a414-53bf-48bf-9d51-f522eb9d742c)![snote](https://github.com/Virang007/NoteApp/assets/104147123/27b61610-77d4-47b0-b551-956117e6c630)
 
 ## Getting Started
 
